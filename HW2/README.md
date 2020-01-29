@@ -1,5 +1,5 @@
-# UCSD-Fall19-CSE-258-HW1
+# UCSD-Fall19-CSE-258-HW2
 Web Mining and Recommender Systems
 
-Regression & classification tasks on
-Amazon Gift Card data : https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Gift_Card_v1_00.tsv.gz
+Diagnostics & dimensionality reduction tasks on
+Polish Bankruptcy data : : https://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data
