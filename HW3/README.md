@@ -1,5 +1,4 @@
-# UCSD-Fall19-CSE-258-HW1
+# UCSD-Fall19-CSE-258-HW3
 Web Mining and Recommender Systems
 
-Regression & classification tasks on
-Amazon Gift Card data : https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Gift_Card_v1_00.tsv.gz
+Read-or-not prediction & review rating prediction tasks on a book review dataset
